@@ -1,7 +1,0 @@
-The University Timetabling project is a web-based software solution designed to help academic institutions manage the complex task of scheduling and maintaining timetables. It offers a comprehensive set of features and modules that allow users to input and manage course and scheduling information, view and modify timetables, and generate reports.
-
-One of the key strengths of the system is its ability to handle a wide range of scheduling constraints and preferences, allowing users to define various constraints and preferences such as instructor availability, room capacities, course prerequisites, and student preferences. The system uses optimization algorithms to generate optimal or near-optimal timetables based on the input data and constraints.
-
-The system is highly customizable, providing a range of options to meet specific institutional needs. It supports multiple roles, including administrators, instructors, and students, each with their own set of permissions and access levels. The system is compatible with various database systems and operating systems, and can be deployed on-premises or in the cloud.
-
-Overall, the University Timetabling project streamlines the scheduling process, reduces workload, and improves the user experience for students, faculty, and administrators. It is a powerful and user-friendly solution that simplifies the management of academic timetables for institutions of all sizes.
